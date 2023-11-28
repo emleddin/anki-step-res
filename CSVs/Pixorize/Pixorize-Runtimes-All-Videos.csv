@@ -1,0 +1,843 @@
+Subject,Group,Video,Duration
+Biochemistry,Vitamins,Vitamin B1 (Thiamine) Biochemistry,0:07:19
+Biochemistry,Vitamins,Vitamin B1 (Thiamine) Deficiency,0:10:51
+Biochemistry,Vitamins,Vitamin B2 (Riboflavin),0:06:30
+Biochemistry,Vitamins,Vitamin B3 (Niacin) Biochemistry,0:07:50
+Biochemistry,Vitamins,Vitamin B3 (Niacin) Deficiency and Excess,0:08:32
+Biochemistry,Vitamins,Hartnup Disease,0:05:58
+Biochemistry,Vitamins,Vitamin B5 (Pantothenic Acid),0:05:33
+Biochemistry,Vitamins,Vitamin B6 (Pyridoxine),0:10:15
+Biochemistry,Vitamins,Vitamin B7 (Biotin),0:07:52
+Biochemistry,Vitamins,Vitamin B9 (Folate),0:03:39
+Biochemistry,Vitamins,Vitamin B12 (Cobalamin) Biochemistry,0:07:02
+Biochemistry,Vitamins,Vitamins B9 and B12 Deficiencies,0:20:08
+Biochemistry,Vitamins,Vitamin A (Retinol) Biochemistry,0:09:24
+Biochemistry,Vitamins,Vitamin A (Retinol) Deficiency and Excess,0:09:16
+Biochemistry,Vitamins,Vitamin C (Ascorbic Acid) Biochemistry,0:08:06
+Biochemistry,Vitamins,Vitamin C (Ascorbic Acid) Deficiency and Excess,0:09:01
+Biochemistry,Vitamins,Vitamin D Biochemistry,0:11:42
+Biochemistry,Vitamins,Vitamin D Deficiency and Excess,0:11:37
+Biochemistry,Vitamins,Vitamin E (Tocopherol/Tocotrienol),0:07:23
+Biochemistry,Vitamins,Vitamin K Biochemistry,0:06:53
+Biochemistry,Vitamins,Vitamin K Deficiency,0:06:34
+Biochemistry,Vitamins,Zinc,0:06:06
+Biochemistry,Vitamins,Kwashiorkor and Marasmus,0:05:57
+Biochemistry,Biochemical Pathways,Glycolysis,0:20:00
+Biochemistry,Biochemical Pathways,Citric Acid Cycle (TCA Cycle),0:20:01
+Biochemistry,Biochemical Pathways,Electron Transport Chain (ETC),0:19:58
+Biochemistry,Biochemical Pathways,Cori Cycle,0:06:40
+Biochemistry,Biochemical Pathways,De Novo Purine Synthesis,0:08:48
+Biochemistry,Biochemical Pathways,De Novo Pyrimidine Synthesis,0:21:03
+Biochemistry,Biochemical Pathways,Purine Salvage,0:11:31
+Biochemistry,Biochemical Pathways,Purine Excretion,0:09:34
+Biochemistry,Biochemical Pathways,Ethanol Metabolism,0:12:40
+Biochemistry,Biochemical Pathways,Pyruvate Metabolism,0:11:12
+Biochemistry,Biochemical Pathways,HMP Shunt (Pentose Phosphate Pathway),0:11:58
+Biochemistry,Biochemical Pathways,Galactose Metabolism,0:11:14
+Biochemistry,Biochemical Pathways,Sorbitol (Polyol) Pathway,0:10:17
+Biochemistry,Biochemical Pathways,Urea Cycle,0:12:58
+Biochemistry,Biochemical Pathways,Alanine (Cahill) Cycle,0:11:15
+Biochemistry,Biochemical Pathways,Catecholamine Synthesis & Breakdown,0:19:00
+Biochemistry,Biochemical Pathways,Homocysteine Metabolism,0:09:29
+Biochemistry,Biochemical Pathways,Fatty Acid Synthesis (Citrate Shuttle),0:05:07
+Biochemistry,Biochemical Pathways,Fatty Acid Breakdown (Carnitine Shuttle),0:07:00
+Biochemistry,Biochemical Pathways,Propionic Acid Pathway,0:11:10
+Biochemistry,Biochemical Pathways,Fructose Metabolism,0:07:55
+Biochemistry,Biochemical Pathways,"Regulation by Fructose-2,6-Bisphosphate (F-2,6-BP)",0:09:28
+Biochemistry,Biochemical Pathways,Glycogenesis,0:10:45
+Biochemistry,Biochemical Pathways,Glycogenolysis,0:17:30
+Biochemistry,Metabolic Disorders,Albinism,0:05:39
+Biochemistry,Metabolic Disorders,Pyruvate Dehydrogenase Deficiency,0:05:48
+Biochemistry,Metabolic Disorders,Pyruvate Kinase Deficiency,0:08:13
+Biochemistry,Metabolic Disorders,G6PD Deficiency,0:13:07
+Biochemistry,Metabolic Disorders,Essential Fructosuria,0:03:48
+Biochemistry,Metabolic Disorders,Hereditary Fructose Intolerance,0:07:07
+Biochemistry,Metabolic Disorders,Galactosemia,0:12:01
+Biochemistry,Metabolic Disorders,Galactokinase Deficiency,0:06:16
+Biochemistry,Metabolic Disorders,Lactase Deficiency,0:10:03
+Biochemistry,Metabolic Disorders,Ornithine Transcarbamylase Deficiency,0:07:10
+Biochemistry,Metabolic Disorders,Phenylketonuria (PKU),0:08:52
+Biochemistry,Metabolic Disorders,Maple Syrup Urine Disease,0:06:54
+Biochemistry,Metabolic Disorders,Alkaptonuria,0:06:35
+Biochemistry,Metabolic Disorders,Homocystinuria,0:10:09
+Biochemistry,Metabolic Disorders,Cystinuria,0:07:37
+Biochemistry,Metabolic Disorders,Propionic Acidemia,0:07:53
+Biochemistry,Metabolic Disorders,Lesch-Nyhan Syndrome,0:06:48
+Biochemistry,Metabolic Disorders,Systemic Primary Carnitine Deficiency,0:10:03
+Biochemistry,Metabolic Disorders,MCAD Deficiency,0:09:13
+Biochemistry,Lipids,Chylomicron Metabolism,0:13:14
+Biochemistry,Lipids,VLDL Metabolism,0:16:18
+Biochemistry,Lipids,HDL Metabolism,0:05:27
+Biochemistry,Lipids,Abetalipoproteinemia,0:08:00
+Biochemistry,Lipids,Familial Hyperchylomicronemia,0:07:48
+Biochemistry,Lipids,Familial Hypercholesterolemia,0:08:24
+Biochemistry,Lipids,Familial Dysbetalipoproteinemia,0:08:11
+Biochemistry,Lipids,Familial Hypertriglyceridemia,0:04:58
+Biochemistry,Autosomal Dominant Diseases,Marfan Syndrome,0:04:45
+Biochemistry,Autosomal Dominant Diseases,Li-Fraumeni Syndrome (LFS),0:05:03
+Biochemistry,Autosomal Dominant Diseases,Achondroplasia,0:04:13
+Biochemistry,Autosomal Dominant Diseases,Job (Hyper IgE) Syndrome,0:04:21
+Biochemistry,Autosomal Dominant Diseases,HHT,0:03:45
+Biochemistry,Autosomal Dominant Diseases,Hereditary Spherocytosis,0:06:42
+Biochemistry,Autosomal Dominant Diseases,von Hippel-Lindau (VHL),0:04:35
+Biochemistry,Autosomal Dominant Diseases,MEN 1,0:05:01
+Biochemistry,Autosomal Dominant Diseases,MEN 2,0:04:29
+Biochemistry,Autosomal Dominant Diseases,Von Recklinghausen Disease (NF I),0:04:21
+Biochemistry,Autosomal Dominant Diseases,Neurofibromatosis Type II (NF II),0:02:17
+Biochemistry,Autosomal Dominant Diseases,Myotonic Dystrophy,0:03:50
+Biochemistry,Autosomal Dominant Diseases,ADPKD,0:06:27
+Biochemistry,Lysosomal Storage Diseases,Krabbe Disease,0:04:43
+Biochemistry,Lysosomal Storage Diseases,Hurler and Hunter Syndromes,0:07:53
+Biochemistry,Lysosomal Storage Diseases,Fabry Disease,0:05:32
+Biochemistry,Lysosomal Storage Diseases,Tay-Sachs and Niemann-Pick,0:07:15
+Biochemistry,Lysosomal Storage Diseases,Gaucher Disease,0:03:53
+Biochemistry,Lysosomal Storage Diseases,Metachromatic Leukodystrophy,0:04:45
+Biochemistry,Lysosomal Storage Diseases,I-Cell Disease,0:08:52
+Biochemistry,Glycogen Storage Diseases,Pompe Disease (Type II),0:05:15
+Biochemistry,Glycogen Storage Diseases,Von Gierke (Type I),0:05:05
+Biochemistry,Glycogen Storage Diseases,Cori Disease (Type III),0:05:00
+Biochemistry,Glycogen Storage Diseases,McArdle Disease (Type V),0:05:06
+Biochemistry,Chromosomal Abnormalities,Down Syndrome (Trisomy 21),0:10:52
+Biochemistry,Chromosomal Abnormalities,Edwards Syndrome (Trisomy 18),0:07:53
+Biochemistry,Chromosomal Abnormalities,Patau Syndrome (Trisomy 13),0:06:22
+Biochemistry,Chromosomal Abnormalities,Klinefelter Syndrome,0:07:09
+Biochemistry,Chromosomal Abnormalities,Turner Syndrome,0:08:43
+Biochemistry,Chromosomal Abnormalities,Williams Syndrome,0:06:58
+Biochemistry,Chromosomal Abnormalities,Cri du Chat Syndrome,0:03:38
+Biochemistry,Chromosomal Abnormalities,Imprinting,0:05:30
+Biochemistry,Collagen Related Disorders,Alport Syndrome,0:05:38
+Biochemistry,Collagen Related Disorders,Menkes Disease,0:07:31
+Biochemistry,Collagen Related Disorders,Osteogenesis Imperfecta (Brittle Bone Disease),0:06:49
+Biochemistry,Collagen Related Disorders,Collagen Synthesis,0:11:45
+Biochemistry,Collagen Related Disorders,Ehlers-Danlos Syndrome,0:09:45
+Biochemistry,Collagen Related Disorders,Goodpasture Syndrome,0:06:12
+Biochemistry,DNA Repair,Lynch Syndrome,0:09:40
+Biochemistry,DNA Repair,Xeroderma Pigmentosum,0:05:53
+Biochemistry,DNA Repair,Ataxia-Telangiectasia,0:07:44
+Biochemistry,DNA Repair,Bloom Syndrome,0:04:39
+Biochemistry,Lung Cancer,Lung Cancer Overview,0:06:30
+Biochemistry,Lung Cancer,Small Cell Carcinoma,0:05:31
+Biochemistry,Lung Cancer,Adenocarcinoma,0:03:45
+Biochemistry,Lung Cancer,Squamous Cell Carcinoma,0:02:52
+Biochemistry,Lung Cancer,Large Cell Carcinoma,0:02:13
+Biochemistry,Lung Cancer,Bronchial Carcinoid Tumor,0:02:08
+Biochemistry,Toxicology,Cyanide Poisoning,0:10:09
+Biochemistry,Toxicology,Tetrodotoxin,0:06:22
+Biochemistry,Toxicology,Methanol Poisoning,0:06:32
+Biochemistry,Toxicology,Ethylene Glycol Poisoning,0:08:09
+Biochemistry,Toxicology,Ciguatoxin (Ciguatera Fish Poisoning),0:05:46
+Biochemistry,Toxicology,Spoiled Fish (Scombroid) Poisoning,0:04:42
+Biochemistry,Toxicology,Carbon Monoxide Poisoning,0:11:11
+Biochemistry,Toxicology,Amanita Phalloides (No video),0:00:00
+Biochemistry,Vasculitides,Giant Cell (Temporal) Arteritis,0:12:03
+Biochemistry,Vasculitides,Henoch-Schonlein Purpura,0:08:41
+Biochemistry,Vasculitides,Takayasu Arteritis,0:10:11
+Biochemistry,Vasculitides,Buerger Disease (Thromboangiitis Obliterans),0:08:52
+Biochemistry,Vasculitides,Behcet Disease,0:09:13
+Biochemistry,Vasculitides,Granulomatosis with Polyangiitis,0:14:05
+Biochemistry,Vasculitides,Mixed Cryoglobulinemia,0:07:29
+Biochemistry,Vasculitides,Microscopic Polyangiitis,0:11:22
+Biochemistry,Vasculitides,Kawasaki Disease,0:09:18
+Biochemistry,Peroxisome,Zellweger Syndrome,0:04:09
+Biochemistry,Peroxisome,Adrenoleukodystrophy,0:06:16
+Biochemistry,Peroxisome,Refsum Disease,0:09:18
+Biochemistry,Mitochondrial Diseases,Leber Hereditary Optic Neuropathy,0:03:48
+Biochemistry,Mitochondrial Diseases,Mitochondrial Myopathies,0:09:30
+Biochemistry,Heme and Porphyrias,Heme Synthesis,0:17:51
+Biochemistry,Heme and Porphyrias,Acute Intermittent Porphyria (AIP),0:08:52
+Biochemistry,Heme and Porphyrias,Porphyria Cutanea Tarda (PCT),0:06:35
+Biochemistry,Coagulation,Common Pathway of Coagulation,0:10:54
+Biochemistry,Coagulation,Extrinsic Pathway of Coagulation,0:07:29
+Biochemistry,Coagulation,Intrinsic Pathway of Coagulation,0:16:50
+Biochemistry,Coagulation,Hemophilia A,0:07:10
+Biochemistry,Coagulation,Hemophilia B,0:05:15
+Biochemistry,Coagulation,Hemophilia C,0:05:16
+Biochemistry,Coagulation,Factor V Leiden,0:06:58
+Biochemistry,Coagulation,Antithrombin-3 Deficiency (No Video),0:00:00
+Biochemistry,Platelet Disorders,Platelet Plug Formation,0:12:20
+Biochemistry,Platelet Disorders,Bernard-Soulier Syndrome,0:07:25
+Biochemistry,Platelet Disorders,Glanzmann Thrombasthenia,0:03:57
+Biochemistry,Platelet Disorders,Immune Thrombocytopenic Purpura (ITP),0:09:24
+Biochemistry,Platelet Disorders,Thrombotic Thrombocytopenic Purpura (TTP),0:10:09
+Biochemistry,Platelet Disorders,Hemolytic Uremic Syndrome (HUS),0:08:29
+Biochemistry,Platelet Disorders,FUTURE: Disseminated Intravascular Coagulation,0:00:00
+Biochemistry,Platelet Disorders,FUTURE: Von Willebrand Disease,0:00:00
+Biochemistry,Plasma Cell Dyscrasias,Waldenstrom Macroglobulinemia,0:08:24
+Biochemistry,Plasma Cell Dyscrasias,Multiple Myeloma,0:11:26
+Biochemistry,Developmental Milestones,2 Months,0:03:26
+Biochemistry,Developmental Milestones,4 Months,0:03:35
+Biochemistry,Developmental Milestones,6 Months,0:04:27
+Biochemistry,Developmental Milestones,9 Months,0:04:30
+Biochemistry,Developmental Milestones,12 Months,0:03:23
+Biochemistry,Developmental Milestones,18 Months,0:03:07
+Biochemistry,Developmental Milestones,2 Years,0:05:45
+Biochemistry,Developmental Milestones,3 Years,0:04:27
+Biochemistry,Developmental Milestones,4 Years,0:04:06
+Biochemistry,Developmental Milestones,5 Years,0:03:16
+Biochemistry,Lab Diagrams,BMP (Chem7) Fishbone,0:07:41
+Biochemistry,Lab Diagrams,CBC,0:07:05
+Biochemistry,Lab Diagrams,Coagulation Panel,0:08:38
+Biochemistry,Lab Diagrams,CMP,0:08:13
+Biochemistry,Lab Diagrams,ABG,0:06:15
+Biochemistry,Misc,Osteosarcoma,0:10:09
+Biochemistry,Misc,McCune-Albright Syndrome,0:08:16
+Biochemistry,Misc,Hexokinase vs Glucokinase,0:14:20
+Biochemistry,Misc,COP I & II and Clathrin,0:07:29
+Biochemistry,Misc,Kartagener Syndrome (Primary Ciliary Dyskinesia),0:08:33
+Biochemistry,Misc,Familial Adenomatous Polyposis (FAP),0:10:26
+Biochemistry,Misc,Peutz-Jeghers Syndrome,0:08:03
+Biochemistry,Misc,Cystic Fibrosis Overview,0:08:32
+Biochemistry,Misc,Cystic Fibrosis Complications,0:13:03
+Biochemistry,Misc,Medicare vs Medicaid,0:11:33
+Biochemistry,Misc,Duchenne and Becker Muscular Dystrophy,0:11:08
+Biochemistry,Misc,Yolk Sac Tumor,0:04:07
+Biochemistry,Misc,Rett Syndrome,0:04:30
+Biochemistry,Misc,Fragile X Syndrome,0:08:18
+Biochemistry,Misc,Whipple's Disease,0:06:04
+Biochemistry,Misc,Osteoid Osteoma vs Osteoblastoma,0:08:39
+Biochemistry,Misc,T1 vs T2 MRIs,0:04:25
+Biochemistry,Dyslipidemias (deprecated),Apolipoproteins,0:07:29
+Biochemistry,Dyslipidemias (deprecated),Hyperchylomicronemia,0:03:55
+Biochemistry,Dyslipidemias (deprecated),Hypercholesterolemia,0:04:52
+Biochemistry,Dyslipidemias (deprecated),Dysbetalipoproteinemia,0:02:53
+Biochemistry,Dyslipidemias (deprecated),Hypertriglyceridemia,0:02:45
+Biochemistry,Dyslipidemias (deprecated),Abetalipoproteinemia (No video),0:00:00
+Immunology,Immunoglobulins,Immunoglobulin A (IgA),0:06:45
+Immunology,Immunoglobulins,Immunoglobulin G (IgG),0:08:55
+Immunology,Immunoglobulins,Immunoglobulin M (IgM),0:07:05
+Immunology,Immunoglobulins,Immunoglobulin E (IgE),0:09:22
+Immunology,Immunoglobulins,Immunoglobulin D (IgD),0:02:25
+Immunology,Complement,Common Complement Pathway,0:13:41
+Immunology,Complement,Classical Complement Pathway,0:07:03
+Immunology,Complement,Alternative Complement Pathway,0:05:57
+Immunology,Complement,Lectin Complement Pathway,0:05:44
+Immunology,Other Cell Types,Neutrophils - Overview,0:11:31
+Immunology,Other Cell Types,Neutrophils - Granules,0:09:34
+Immunology,Other Cell Types,Neutrophils - Oxidative Burst,0:11:03
+Immunology,Other Cell Types,Basophils,0:08:20
+Immunology,Other Cell Types,Eosinophils,0:11:37
+Immunology,Other Cell Types,Mast Cells,0:14:20
+Immunology,Other Cell Types,Monocytes / Macrophages,0:16:26
+Immunology,Other Cell Types,Natural Killer (NK) Cells,0:13:07
+Immunology,Other Cell Types,Dendritic Cells,0:05:11
+Immunology,B Cells and T Cells,MHC I,0:07:55
+Immunology,B Cells and T Cells,MHC II,0:10:13
+Immunology,B Cells and T Cells,B Cells - Overview,0:06:47
+Immunology,B Cells and T Cells,B Cells - Activation,0:09:24
+Immunology,B Cells and T Cells,Plasma B Cells,0:05:47
+Immunology,B Cells and T Cells,Memory B Cells,0:05:27
+Immunology,B Cells and T Cells,T Cells - Overview,0:03:30
+Immunology,B Cells and T Cells,T Cells - Activation,0:09:33
+Immunology,B Cells and T Cells,T Cells - Differentation,0:14:56
+Immunology,B Cells and T Cells,Cytotoxic (Killer) T Cells,0:06:30
+Immunology,B Cells and T Cells,Helper T Cells - Overview,0:06:42
+Immunology,B Cells and T Cells,Th1 Cells,0:10:15
+Immunology,B Cells and T Cells,Th2 Cells,0:11:14
+Immunology,B Cells and T Cells,Th17 Cells,0:06:27
+Immunology,B Cells and T Cells,Regulatory T Cells (Tregs),0:11:15
+Immunology,Cytokines,TNF-alpha,0:06:03
+Immunology,Cytokines,IL-1,0:07:07
+Immunology,Cytokines,IL-2,0:06:34
+Immunology,Cytokines,IL-3,0:02:40
+Immunology,Cytokines,IL-4,0:05:53
+Immunology,Cytokines,IL-5,0:05:08
+Immunology,Cytokines,IL-6,0:05:29
+Immunology,Cytokines,IL-8,0:02:29
+Immunology,Cytokines,IL-10,0:03:26
+Immunology,Cytokines,IL-12,0:04:30
+Immunology,Cytokines,TGF-beta,0:03:31
+Immunology,Cytokines,IFN-alpha and IFN-beta,0:02:54
+Immunology,Cytokines,IFN-gamma,0:08:09
+Immunology,Immunodeficiencies,Selective IgA Deficiency,0:05:27
+Immunology,Immunodeficiencies,Chediak-Higashi Syndrome,0:10:09
+Immunology,Immunodeficiencies,DiGeorge Syndrome,0:10:06
+Immunology,Immunodeficiencies,Bruton (X-linked) Agammaglobulinemia,0:09:05
+Immunology,Immunodeficiencies,Hyper-IgM Syndrome,0:08:35
+Immunology,Immunodeficiencies,IPEX,0:07:09
+Immunology,Immunodeficiencies,Leukocyte Adhesion Deficiency (LAD),0:09:40
+Immunology,Immunodeficiencies,Chronic Granulomatous Disease (CGD),0:07:50
+Immunology,Immunodeficiencies,IL-12 Receptor Deficiency,0:08:58
+Immunology,Immunodeficiencies,Wiskott-Aldrich Syndrome,0:07:39
+Immunology,Leukemias and Lymphomas,Acute Myelogenous Leukemia (AML),0:07:15
+Immunology,Leukemias and Lymphomas,Acute Promyelocytic Leukemia (APL),0:10:54
+Immunology,Leukemias and Lymphomas,Acute Lymphocytic Leukemia (ALL),0:14:39
+Immunology,Leukemias and Lymphomas,Chronic Myelogenous Leukemia (CML),0:10:43
+Immunology,Leukemias and Lymphomas,Chronic Lymphocytic Leukemia (CLL),0:06:52
+Immunology,Leukemias and Lymphomas,Hairy Cell Leukemia (HCL),0:08:24
+Immunology,Leukemias and Lymphomas,Hodgkin Lymphoma,0:06:52
+Immunology,Leukemias and Lymphomas,Burkitt Lymphoma,0:06:34
+Immunology,Leukemias and Lymphomas,Diffuse Large B Cell Lymphoma (DLBCL),0:04:50
+Immunology,Leukemias and Lymphomas,Follicular Lymphoma,0:08:11
+Immunology,Leukemias and Lymphomas,Mantle Cell Lymphoma,0:08:16
+Immunology,Leukemias and Lymphomas,Marginal Zone Lymphoma,0:05:27
+Immunology,Leukemias and Lymphomas,Primary CNS Lymphoma (PCNSL),0:04:26
+Immunology,Leukemias and Lymphomas,Adult T-Cell Leukemia/Lymphoma (ATLL),0:04:58
+Immunology,Leukemias and Lymphomas,Mycosis Fungoides / Sezary Syndrome,0:05:54
+Immunology,Hypersensitivity Reactions,Type 1 Hypersensitivity Reactions,0:09:41
+Immunology,Hypersensitivity Reactions,Type 2 Hypersensitivity Reactions,0:07:32
+Immunology,Hypersensitivity Reactions,Type 3 Hypersensitivity Reactions,0:06:06
+Immunology,Hypersensitivity Reactions,Type 4 Hypersensitivity Reactions,0:05:15
+Immunology,Immunosuppressants,Cyclosporine,0:08:50
+Immunology,Immunosuppressants,Tacrolimus,0:06:39
+Immunology,Immunosuppressants,Sirolimus (Rapamycin),0:06:43
+Immunology,Immunosuppressants,Basiliximab,0:03:47
+Immunology,Immunosuppressants,Mycophenolate,0:04:13
+Immunology,Transfusion Reactions,Anaphylactic Transfusion Reactions,0:04:35
+Immunology,Transfusion Reactions,Acute Hemolytic Transfusion Reaction,0:10:56
+Immunology,Transfusion Reactions,Febrile Nonhemolytic Transfusion Reaction,0:05:54
+Immunology,Transfusion Reactions,TRALI,0:05:33
+Immunology,Transplant Rejection,Hyperacute Transplant Rejection,0:05:00
+Immunology,Transplant Rejection,Acute Transplant Rejection,0:05:29
+Immunology,Transplant Rejection,Chronic Transplant Rejection,0:07:15
+Immunology,Transplant Rejection,Graft vs Host Disease (GVHD),0:09:03
+Pharmacology,Diabetes Drugs (New),DPP-4 Inhibitors,0:14:13
+Pharmacology,Diabetes Drugs (New),GLP-1 Analogs,0:11:54
+Pharmacology,Diabetes Drugs (New),Insulin Overview,0:17:09
+Pharmacology,Diabetes Drugs (New),Insulin Preparations,0:21:56
+Pharmacology,Diabetes Drugs (New),Metformin (Biguanides),0:18:00
+Pharmacology,Diabetes Drugs (New),TZDs (Thiazolidinediones),0:16:48
+Pharmacology,Diabetes Drugs (New),Sulfonylureas,0:22:12
+Pharmacology,Diabetes Drugs (New),Meglitinides,0:14:59
+Pharmacology,Diabetes Drugs (New),SGLT2 Inhibitors,0:17:56
+Pharmacology,Diabetes Drugs (New),Alpha-Glucosidase Inhibitors,0:18:15
+Pharmacology,Diabetes Drugs (New),Pramlintide (Amylin Analogs),0:12:16
+Pharmacology,Cardiovascular Drugs (New),Nitroprusside,0:09:45
+Pharmacology,Cardiovascular Drugs (New),DHP Calcium Channel Blockers,0:17:18
+Pharmacology,Cardiovascular Drugs (New),Hydralazine,0:16:08
+Pharmacology,Cardiovascular Drugs (New),Ezetimibe,0:09:56
+Pharmacology,Cardiovascular Drugs (New),Fenoldopam,0:10:51
+Pharmacology,Cardiovascular Drugs (New),Fibrates,0:13:34
+Pharmacology,Cardiovascular Drugs (New),Sacubitril,0:15:54
+Pharmacology,General Pharm,Gs / Gi Pathway,0:07:59
+Pharmacology,General Pharm,Gq Signaling Pathway,0:07:50
+Pharmacology,General Pharm,Alpha-1 (Adrenergic) Receptors,0:06:30
+Pharmacology,General Pharm,Alpha-2 (Adrenergic) Receptors,0:07:41
+Pharmacology,General Pharm,Beta-1 (Adrenergic) Receptors,0:06:24
+Pharmacology,General Pharm,Beta-2 (Adrenergic) Receptors,0:08:39
+Pharmacology,General Pharm,Beta-3 (Adrenergic) Receptors,0:02:15
+Pharmacology,General Pharm,M1 (Muscarinic) Receptors,0:06:02
+Pharmacology,General Pharm,M2 (Muscarinic) Receptors,0:05:48
+Pharmacology,General Pharm,M3 (Muscarinic) Receptors,0:10:56
+Pharmacology,General Pharm,D1 (Dopamine) Receptors,0:06:00
+Pharmacology,General Pharm,D2 (Dopamine) Receptors,0:06:28
+Pharmacology,General Pharm,H1 (Histamine) Receptors,0:07:50
+Pharmacology,General Pharm,H2 (Histamine) Receptors,0:03:59
+Pharmacology,General Pharm,V1 (Vasopressin) Receptors,0:03:49
+Pharmacology,General Pharm,V2 (Vasopressin) Receptors,0:06:14
+Pharmacology,Cholinomimetics,Bethanechol,0:03:19
+Pharmacology,Cholinomimetics,Carbachol,0:04:05
+Pharmacology,Cholinomimetics,Methacholine,0:03:39
+Pharmacology,Cholinomimetics,Pilocarpine,0:04:21
+Pharmacology,Cholinomimetics,Donepezil Rivastigmine and Galantamine,0:05:06
+Pharmacology,Cholinomimetics,Edrophonium,0:09:05
+Pharmacology,Cholinomimetics,Neostigmine,0:08:37
+Pharmacology,Cholinomimetics,Physostigmine,0:06:20
+Pharmacology,Cholinomimetics,Pyridostigmine,0:05:47
+Pharmacology,Anticholinergics,Atropine (Homatropine and Tropicamide),0:06:03
+Pharmacology,Anticholinergics,Glycopyrrolate,0:03:53
+Pharmacology,Anticholinergics,Hyoscyamine & Dicyclomine,0:03:27
+Pharmacology,Anticholinergics,Oxybutynin Solifenacin Tolterodine,0:04:19
+Pharmacology,Anticholinergics,Scopolamine,0:03:39
+Pharmacology,Sympathomimetics and Sympatholytics,Dopamine,0:09:31
+Pharmacology,Sympathomimetics and Sympatholytics,Fenoldopam,0:05:23
+Pharmacology,Sympathomimetics and Sympatholytics,Dobutamine,0:04:19
+Pharmacology,Sympathomimetics and Sympatholytics,Epinephrine,0:09:15
+Pharmacology,Sympathomimetics and Sympatholytics,Norepinephrine,0:08:13
+Pharmacology,Sympathomimetics and Sympatholytics,Isoproterenol,0:04:26
+Pharmacology,Sympathomimetics and Sympatholytics,Midodrine,0:03:00
+Pharmacology,Sympathomimetics and Sympatholytics,Phenylephrine and Pseudoephedrine,0:07:15
+Pharmacology,Sympathomimetics and Sympatholytics,(Alpha) Methyldopa,0:04:48
+Pharmacology,Sympathomimetics and Sympatholytics,Clonidine (and Guanfacine),0:05:37
+Pharmacology,Sympathomimetics and Sympatholytics,Tizanidine,0:03:23
+Pharmacology,Alpha and Beta Blockers,Phenoxybenzamine,0:04:42
+Pharmacology,Alpha and Beta Blockers,Phentolamine,0:06:50
+Pharmacology,Alpha and Beta Blockers,"Alpha-1 Antagonists (Prazosin, Terazosin, Tamsulosin)",0:08:01
+Pharmacology,Alpha and Beta Blockers,"Beta-1 Selective Blockers (Atenolol, Esmolol, Metoprolol)",0:06:55
+Pharmacology,Alpha and Beta Blockers,"Combined Alpha-Beta Blockers (Carvedilol, Labetalol)",0:07:10
+Pharmacology,Alpha and Beta Blockers,"Non-selective Beta-Blockers (Propranolol, Timolol)",0:06:39
+Pharmacology,Alpha and Beta Blockers,Nebivolol,0:06:30
+Pharmacology,Cardiovascular Pharm (Old),Adenosine,0:08:31
+Pharmacology,Cardiovascular Pharm (Old),Magnesium,0:05:00
+Pharmacology,Cardiovascular Pharm (Old),Nitroprusside,0:06:12
+Pharmacology,Cardiovascular Pharm (Old),Nitrates,0:11:38
+Pharmacology,Cardiovascular Pharm (Old),Ivabradine,0:06:30
+Pharmacology,Cardiovascular Pharm (Old),Digoxin/Digitalis,0:10:40
+Pharmacology,Cardiovascular Pharm (Old),Class IA Antiarrhythmics,0:09:05
+Pharmacology,Cardiovascular Pharm (Old),Class IB Antiarrhythmics,0:10:40
+Pharmacology,Cardiovascular Pharm (Old),Class IC Antiarrhythmics,0:08:09
+Pharmacology,Cardiovascular Pharm (Old),Class II Antiarrhythmics,0:09:20
+Pharmacology,Cardiovascular Pharm (Old),Class III Antiarrhythmics - Amiodarone,0:09:24
+Pharmacology,Cardiovascular Pharm (Old),Class III Antiarrythmics - Sotalol,0:07:07
+Pharmacology,Cardiovascular Pharm (Old),"Class III Antiarrhythmics - Ibutilide, Dofetilide",0:07:29
+Pharmacology,Cardiovascular Pharm (Old),"Class IV Antiarrhythmics - Verapamil, Diltiazem",0:08:01
+Pharmacology,Cardiovascular Pharm (Old),HMG-CoA Reductase Inhibitors (Statins),0:05:49
+Pharmacology,Cardiovascular Pharm (Old),Ezetimibe,0:04:19
+Pharmacology,Cardiovascular Pharm (Old),Fibrates,0:11:05
+Pharmacology,Cardiovascular Pharm (Old),"PCSK9 Inhibitors (Alirocumab, Evolocumab)",0:04:57
+Pharmacology,Cardiovascular Pharm (Old),Fish Oil and Omega-3s,0:04:32
+Pharmacology,Cardiovascular Pharm (Old),Milrinone,0:04:01
+Pharmacology,Cardiovascular Pharm (Old),Aliskiren,0:03:04
+Pharmacology,Cardiovascular Pharm (Old),Hydralazine,0:07:24
+Pharmacology,Cardiovascular Pharm (Old),Ranolazine,0:03:48
+Pharmacology,Cardiovascular Pharm (Old),Sacubitril,0:04:56
+Pharmacology,Diabetes Drugs (Old),Insulin Preparations,0:12:32
+Pharmacology,Diabetes Drugs (Old),Metformin,0:09:04
+Pharmacology,Diabetes Drugs (Old),Glitazones / Thiazolidinediones,0:08:00
+Pharmacology,Diabetes Drugs (Old),First-Gen Sulfonylureas,0:08:30
+Pharmacology,Diabetes Drugs (Old),Second-Gen Sulfonylureas,0:06:29
+Pharmacology,Diabetes Drugs (Old),Meglitinides,0:09:24
+Pharmacology,Diabetes Drugs (Old),GLP-1 Analogs,0:06:50
+Pharmacology,Diabetes Drugs (Old),DPP-4 Inhibitors,0:04:44
+Pharmacology,Diabetes Drugs (Old),alpha-Glucosidase Inhibitors,0:06:32
+Pharmacology,Diabetes Drugs (Old),Pramlintide,0:04:26
+Pharmacology,Other Endocrine Pharm,Thionamides (PTU vs Methimazole),0:09:07
+Pharmacology,Other Endocrine Pharm,"ADH Antagonists (Conivaptan, Tolvaptan)",0:04:36
+Pharmacology,Other Endocrine Pharm,Levothyroxine (T4) vs Liothyronine (T3),0:05:56
+Pharmacology,Other Endocrine Pharm,Demeclocycline,0:04:50
+Pharmacology,Other Endocrine Pharm,Desmopressin,0:07:05
+Pharmacology,Other Endocrine Pharm,Cinacalcet,0:03:30
+Pharmacology,Other Endocrine Pharm,Sevelamer,0:03:44
+Pharmacology,Gastrointestinal Pharm,"H2 Blockers (Cimetidine, Ranitidine, Famotidine)",0:06:55
+Pharmacology,Gastrointestinal Pharm,Proton Pump Inhibitors (PPIs),0:07:19
+Pharmacology,Gastrointestinal Pharm,Misoprostol,0:07:13
+Pharmacology,Gastrointestinal Pharm,Orlistat,0:05:22
+Pharmacology,Gastrointestinal Pharm,Antacids,0:08:39
+Pharmacology,Gastrointestinal Pharm,Bismuth & Sucralfate,0:03:57
+Pharmacology,Gastrointestinal Pharm,Octreotide,0:08:09
+Pharmacology,Gastrointestinal Pharm,Diphenoxylate vs. Loperamide,0:05:43
+Pharmacology,Gastrointestinal Pharm,Ondansetron,0:06:15
+Pharmacology,Gastrointestinal Pharm,Metoclopramide,0:06:31
+Pharmacology,Gastrointestinal Pharm,Bulk-forming Laxatives,0:02:52
+Pharmacology,Gastrointestinal Pharm,Senna,0:03:54
+Pharmacology,Gastrointestinal Pharm,Docusate,0:02:13
+Pharmacology,Gastrointestinal Pharm,Aprepitant,0:02:54
+Pharmacology,Heme Pharm,Warfarin,0:17:31
+Pharmacology,Heme Pharm,Heparin,0:09:48
+Pharmacology,Heme Pharm,Low Molecular Weight Heparins (LMWH),0:08:32
+Pharmacology,Heme Pharm,"Direct Thrombin Inhibitors (Argatroban, Dabigatran, Bivalirudin)",0:08:54
+Pharmacology,Heme Pharm,"Thrombolytics (tPA, Streptokinase, Urokinase)",0:08:32
+Pharmacology,Heme Pharm,ADP Receptor Inhibitors,0:07:02
+Pharmacology,Heme Pharm,"PDE3 Inhibitors (Cilostazol, Dipyridamole)",0:09:15
+Pharmacology,Heme Pharm,Glycoprotein IIb/IIIa Inhibitors,0:06:33
+Pharmacology,Heme Pharm,"Factor Xa Inhibitors (Apixaban, Rivaroxaban, Edoxaban)",0:07:50
+Pharmacology,Oncology Pharm,Bleomycin,0:05:39
+Pharmacology,Oncology Pharm,"Dactinomycin, Actinomycin D",0:03:56
+Pharmacology,Oncology Pharm,"Doxorubicin, Daunorubicin",0:07:10
+Pharmacology,Oncology Pharm,"Azathioprine, 6-MP",0:08:30
+Pharmacology,Oncology Pharm,Cladribine,0:04:34
+Pharmacology,Oncology Pharm,Cytarabine,0:06:03
+Pharmacology,Oncology Pharm,Busulfan,0:04:45
+Pharmacology,Oncology Pharm,"Cyclophosphamide, Ifosfamide",0:05:13
+Pharmacology,Oncology Pharm,Nitrosoureas,0:05:03
+Pharmacology,Oncology Pharm,Paclitaxel,0:04:40
+Pharmacology,Oncology Pharm,"Vincristine, Vinblastine",0:04:04
+Pharmacology,Oncology Pharm,"Cisplatin, Carboplatin, Oxaliplatin",0:05:22
+Pharmacology,Oncology Pharm,"Etoposide, Teniposide",0:04:04
+Pharmacology,Oncology Pharm,"Irinotecan, Topotecan",0:04:51
+Pharmacology,Oncology Pharm,Bevacizumab,0:04:03
+Pharmacology,Oncology Pharm,Erlotinib,0:03:14
+Pharmacology,Oncology Pharm,"Cetuximab, Panitumumab",0:03:53
+Pharmacology,Oncology Pharm,"Imatinib, Dasatinib",0:07:25
+Pharmacology,Oncology Pharm,Rituximab,0:03:40
+Pharmacology,Oncology Pharm,"Bortezomib, Carfilzomib",0:03:59
+Pharmacology,Oncology Pharm,Trastuzumab,0:04:55
+Pharmacology,Oncology Pharm,"Dabrafenib, Vemurafenib",0:03:56
+Pharmacology,Oncology Pharm,Raloxifene and Tamoxifen,0:07:19
+Pharmacology,Oncology Pharm,Hydroxyurea,0:04:31
+Pharmacology,Oncology Pharm,Procarbazine,0:04:52
+Pharmacology,Musculoskeletal Pharm,Aspirin,0:10:06
+Pharmacology,Musculoskeletal Pharm,Acetaminophen,0:05:46
+Pharmacology,Musculoskeletal Pharm,N-Acetylcysteine (NAC),0:04:40
+Pharmacology,Musculoskeletal Pharm,Celecoxib,0:07:09
+Pharmacology,Musculoskeletal Pharm,NSAIDs,0:10:51
+Pharmacology,Musculoskeletal Pharm,Leflunomide,0:04:45
+Pharmacology,Musculoskeletal Pharm,Bisphosphonates,0:06:00
+Pharmacology,Musculoskeletal Pharm,Teriparatide,0:07:57
+Pharmacology,Musculoskeletal Pharm,Cyclobenzaprine,0:04:10
+Pharmacology,Musculoskeletal Pharm,Dantrolene,0:06:33
+Pharmacology,Musculoskeletal Pharm,Etanercept,0:06:57
+Pharmacology,Musculoskeletal Pharm,"TNF Inhibitors (Infliximab, Adalimumab. Certolizumab, Golimumab)",0:05:43
+Pharmacology,Musculoskeletal Pharm,Allopurinol/Febuxostat,0:07:46
+Pharmacology,Musculoskeletal Pharm,Probenecid,0:06:29
+Pharmacology,Musculoskeletal Pharm,Colchicine,0:05:20
+Pharmacology,Musculoskeletal Pharm,Rasburicase,0:04:24
+Pharmacology,Antiepileptics,Valproic Acid (Valproate),0:08:45
+Pharmacology,Antiepileptics,Carbamazepine,0:12:03
+Pharmacology,Antiepileptics,Ethosuximide,0:05:06
+Pharmacology,Antiepileptics,Gabapentin,0:07:09
+Pharmacology,Antiepileptics,Lamotrigine,0:06:30
+Pharmacology,Antiepileptics,Levetiracetam,0:03:35
+Pharmacology,Antiepileptics,"Barbituates (Phenobarbital, Thiopental)",0:09:33
+Pharmacology,Antiepileptics,Topiramate,0:06:32
+Pharmacology,Antiepileptics,Vigabatrin,0:04:37
+Pharmacology,Anesthetics,Ketamine,0:03:57
+Pharmacology,Anesthetics,Nitrous Oxide (N2O),0:10:22
+Pharmacology,Anesthetics,Local Anesthetics,0:10:48
+Pharmacology,Anesthetics,Nondepolarizing Neuromuscular-blocking Drugs,0:07:07
+Pharmacology,Anesthetics,Succinylcholine,0:00:00
+Pharmacology,Anesthetics,Halothane and Fluranes,0:14:23
+Pharmacology,Anesthetics,Propofol,0:03:48
+Pharmacology,Anesthetics,Thiopental,0:06:13
+Pharmacology,Other Neuro Pharm,Ramelteon,0:03:17
+Pharmacology,Other Neuro Pharm,Triptans,0:07:18
+Pharmacology,Other Neuro Pharm,Benzodiazepines - Function,0:10:43
+Pharmacology,Other Neuro Pharm,Zolpidem Zaleplon Eszopiclone,0:04:14
+Pharmacology,Other Neuro Pharm,Suvorexant,0:04:40
+Pharmacology,Other Neuro Pharm,Bromocriptine (Ergot Dopamine Agonists),0:06:57
+Pharmacology,Other Neuro Pharm,"Pramipexole, Ropinirole",0:07:18
+Pharmacology,Other Neuro Pharm,Amantadine,0:06:26
+Pharmacology,Other Neuro Pharm,"Levodopa, Carbidopa",0:10:05
+Pharmacology,Other Neuro Pharm,"Entacapone, Tolcapone",0:07:15
+Pharmacology,Other Neuro Pharm,Selegiline and Rasagiline,0:06:45
+Pharmacology,Other Neuro Pharm,"Benztropine, Trihexyphenidyl",0:06:03
+Pharmacology,Other Neuro Pharm,Tetrabenazine,0:03:12
+Pharmacology,Other Neuro Pharm,Baclofen,0:03:19
+Pharmacology,Other Neuro Pharm,Memantine,0:03:56
+Pharmacology,Other Neuro Pharm,Riluzole,0:03:09
+Pharmacology,Other Neuro Pharm,Full Opioid Agonists,0:11:53
+Pharmacology,Other Neuro Pharm,Partial Opioid Agonists,0:08:43
+Pharmacology,Other Neuro Pharm,Dextromethorphan,0:02:48
+Pharmacology,Other Neuro Pharm,Tramadol,0:06:14
+Pharmacology,Other Neuro Pharm,Naloxone,0:05:08
+Pharmacology,Other Neuro Pharm,Naltrexone,0:04:58
+Pharmacology,Psych Pharm,Lithium,0:06:55
+Pharmacology,Psych Pharm,Typical Antipsychotics,0:21:35
+Pharmacology,Psych Pharm,Atypical Antipsychotics,0:19:30
+Pharmacology,Psych Pharm,SSRIs,0:12:03
+Pharmacology,Psych Pharm,SNRIs,0:10:45
+Pharmacology,Psych Pharm,Tricyclic Antidepressants (TCAs),0:11:37
+Pharmacology,Psych Pharm,Monoamine Oxidase Inhibitors (MAOIs),0:07:30
+Pharmacology,Psych Pharm,Bupropion,0:07:28
+Pharmacology,Psych Pharm,Mirtazapine,0:07:55
+Pharmacology,Psych Pharm,Trazadone,0:08:45
+Pharmacology,Psych Pharm,Vilazodone,0:04:58
+Pharmacology,Psych Pharm,Vortioxetine,0:05:36
+Pharmacology,Psych Pharm,Buspirone,0:05:46
+Pharmacology,Psych Pharm,Varenicline,0:03:52
+Pharmacology,Renal Pharm,ACE Inhibitors,0:10:56
+Pharmacology,Renal Pharm,"Aldosterone Receptor Blockers (Spironolactone, Eplerenone)",0:14:18
+Pharmacology,Renal Pharm,Ethacrynic Acid,0:06:22
+Pharmacology,Renal Pharm,"Loop Diuretics (Furosemide, Bumetanide, Torsemide)",0:12:56
+Pharmacology,Renal Pharm,Mannitol,0:08:29
+Pharmacology,Renal Pharm,Acetazolamide,0:10:13
+Pharmacology,Renal Pharm,"ENaC Blockers (Amiloride, Triamterene)",0:09:39
+Pharmacology,Renal Pharm,Thiazide Diuretics,0:15:09
+Pharmacology,Renal Pharm,Angiotensin II Receptor Blockers (ARBs),0:11:05
+Pharmacology,Reproductive Pharm,Leuprolide,0:08:00
+Pharmacology,Reproductive Pharm,Anastrozole,0:05:12
+Pharmacology,Reproductive Pharm,Estrogens,0:08:01
+Pharmacology,Reproductive Pharm,Clomiphene,0:05:48
+Pharmacology,Reproductive Pharm,Progestins,0:11:00
+Pharmacology,Reproductive Pharm,Mifepristone,0:05:36
+Pharmacology,Reproductive Pharm,Copper IUDs,0:03:44
+Pharmacology,Reproductive Pharm,Danazol,0:03:48
+Pharmacology,Reproductive Pharm,"Terbutaline, Ritodrine",0:06:08
+Pharmacology,Reproductive Pharm,Minoxidil,0:05:12
+Pharmacology,Reproductive Pharm,"Androgens (Testosterone, Methyltestosterone)",0:07:39
+Pharmacology,Reproductive Pharm,Flutamide,0:04:35
+Pharmacology,Reproductive Pharm,"PDE-5 Inhibitors (Sildenafil, Vardenafil, Tadalafil)",0:07:19
+Pharmacology,Reproductive Pharm,Finasteride,0:03:47
+Pharmacology,Respiratory Pharm,Ipratropium vs Tiotropium,0:05:59
+Pharmacology,Respiratory Pharm,1st Generation Antihistamines,0:09:54
+Pharmacology,Respiratory Pharm,2nd-Generation Antihistamines,0:05:42
+Pharmacology,Respiratory Pharm,Albuterol vs Salmeterol,0:06:52
+Pharmacology,Respiratory Pharm,Fluticasone & Budesonide,0:05:28
+Pharmacology,Respiratory Pharm,Montelukast & Zafirlukast,0:04:04
+Pharmacology,Respiratory Pharm,Zileuton,0:04:37
+Pharmacology,Respiratory Pharm,Omalizumab,0:03:09
+Pharmacology,Respiratory Pharm,Cromolyn & Nedocromil,0:03:35
+Pharmacology,Respiratory Pharm,Guaifenesin,0:03:26
+Pharmacology,Respiratory Pharm,Endothelin Receptor Antagonists (Bosentan),0:04:34
+Pharmacology,Respiratory Pharm,"Prostaglandin Analogs (Epoprostenol, Iloprost)",0:04:14
+Pharmacology,Respiratory Pharm,Theophylline (No Video),0:00:00
+Microbiology,Antibiotics / Antiparasitics,Penicillin Overview,0:16:50
+Microbiology,Antibiotics / Antiparasitics,Penicillinase-Sensitive vs. Penicillinase-Resistant Penicillins,0:10:20
+Microbiology,Antibiotics / Antiparasitics,Anti-Pseudomonal Penicillins,0:07:11
+Microbiology,Antibiotics / Antiparasitics,Cephalosporins Overview,0:09:37
+Microbiology,Antibiotics / Antiparasitics,1st Generation Cephalosporins,0:05:51
+Microbiology,Antibiotics / Antiparasitics,2nd Generation Cephalosporins,0:05:47
+Microbiology,Antibiotics / Antiparasitics,3rd Generation Cephalosporins,0:08:33
+Microbiology,Antibiotics / Antiparasitics,4th Generation Cephalosporins,0:04:50
+Microbiology,Antibiotics / Antiparasitics,5th Generation Cephalosporins,0:05:59
+Microbiology,Antibiotics / Antiparasitics,Carbapenems,0:06:55
+Microbiology,Antibiotics / Antiparasitics,Monobactams (Aztreonam),0:06:18
+Microbiology,Antibiotics / Antiparasitics,Vancomycin,0:08:27
+Microbiology,Antibiotics / Antiparasitics,Aminoglycosides,0:08:47
+Microbiology,Antibiotics / Antiparasitics,Tetracyclines,0:12:46
+Microbiology,Antibiotics / Antiparasitics,Tigecycline,0:05:37
+Microbiology,Antibiotics / Antiparasitics,Chloramphenicol,0:06:55
+Microbiology,Antibiotics / Antiparasitics,Clindamycin,0:05:06
+Microbiology,Antibiotics / Antiparasitics,Linezolid,0:05:15
+Microbiology,Antibiotics / Antiparasitics,Macrolides,0:10:38
+Microbiology,Antibiotics / Antiparasitics,Polymyxins,0:06:44
+Microbiology,Antibiotics / Antiparasitics,Sulfonamides (No Video),0:00:00
+Microbiology,Antibiotics / Antiparasitics,Dapsone,0:09:18
+Microbiology,Antibiotics / Antiparasitics,Trimethoprim (No Video),0:00:00
+Microbiology,Antibiotics / Antiparasitics,Fluoroquinolones,0:11:18
+Microbiology,Antibiotics / Antiparasitics,Daptomycin,0:05:41
+Microbiology,Antibiotics / Antiparasitics,Metronidazole,0:04:50
+Microbiology,Antibiotics / Antiparasitics,"Rifamycins (Rifampin, Rifabutin)",0:07:48
+Microbiology,Antibiotics / Antiparasitics,Isoniazid,0:13:24
+Microbiology,Antibiotics / Antiparasitics,Pyrazinamide,0:05:27
+Microbiology,Antibiotics / Antiparasitics,Ethambutol,0:05:35
+Microbiology,Antibiotics / Antiparasitics,Chloroquine,0:03:46
+Microbiology,Antifungals,Amphotericin B,0:13:35
+Microbiology,Antifungals,Nystatin,0:05:44
+Microbiology,Antifungals,Flucytosine,0:06:09
+Microbiology,Antifungals,Azoles,0:09:01
+Microbiology,Antifungals,Terbinafine,0:07:18
+Microbiology,Antifungals,Echinocandins,0:06:57
+Microbiology,Antifungals,Griseofulvin,0:08:48
+Microbiology,Antivirals,"Oseltamivir, Zanamivir",0:06:16
+Microbiology,Antivirals,"Acyclovir (Famciclovir, Valacyclovir)",0:09:22
+Microbiology,Antivirals,Ganciclovir,0:10:01
+Microbiology,Antivirals,Foscarnet,0:14:07
+Microbiology,Antivirals,Cidofovir,0:08:41
+Microbiology,Antivirals,NRTIs,0:20:47
+Microbiology,Antivirals,NNRTIs,0:13:26
+Microbiology,Antivirals,Integrase Inhibitors,0:06:37
+Microbiology,Antivirals,Protease Inhibitors,0:11:18
+Microbiology,Antivirals,"Entry Inhibitors (Enfuvirtide, Maraviroc)",0:07:24
+Microbiology,Antivirals,NS5A Inhibitors,0:04:24
+Microbiology,Antivirals,NS5B Inhibitors,0:05:15
+Microbiology,Antivirals,NS3/4A Inhibitors,0:05:16
+Microbiology,Bacteria - Gram Positive,Staph aureus: Overview,0:12:16
+Microbiology,Bacteria - Gram Positive,Staph aureus: Presentation,0:11:22
+Microbiology,Bacteria - Gram Positive,Methicillin-Resistant Staph aureus (MRSA),0:05:16
+Microbiology,Bacteria - Gram Positive,Staph saprophyticus,0:06:20
+Microbiology,Bacteria - Gram Positive,Strep pneumoniae: Overview,0:07:45
+Microbiology,Bacteria - Gram Positive,Strep pneumoniae: Presentation,0:07:30
+Microbiology,Bacteria - Gram Positive,Strep viridans,0:07:26
+Microbiology,Bacteria - Gram Positive,Strep pyogenes: Overview,0:11:46
+Microbiology,Bacteria - Gram Positive,Strep pyogenes: Presentation,0:11:07
+Microbiology,Bacteria - Gram Positive,Strep agalactiae,0:10:45
+Microbiology,Bacteria - Gram Positive,Strep bovis,0:06:34
+Microbiology,Bacteria - Gram Positive,Enterococcus (No Video),0:00:00
+Microbiology,Bacteria - Gram Positive,Bacillus anthracis,0:12:14
+Microbiology,Bacteria - Gram Positive,Bacillus cereus,0:06:30
+Microbiology,Bacteria - Gram Positive,Clostridium tetani,0:10:07
+Microbiology,Bacteria - Gram Positive,Clostridium perfringens,0:12:01
+Microbiology,Bacteria - Gram Positive,Clostridium botulinum,0:10:18
+Microbiology,Bacteria - Gram Positive,Clostridium difficile,0:10:31
+Microbiology,Bacteria - Gram Positive,Corynebacterium diphtheriae,0:13:55
+Microbiology,Bacteria - Gram Positive,Listeria monocytogenes,0:09:24
+Microbiology,Bacteria - Gram Positive,Nocardia,0:12:50
+Microbiology,Bacteria - Gram Positive,Actinomyces,0:06:43
+Microbiology,Bacteria - Gram Negative,Neisseria spp: Overview,0:10:36
+Microbiology,Bacteria - Gram Negative,Neisseria gonorrhoeae,0:09:48
+Microbiology,Bacteria - Gram Negative,Neisseria meningitidis,0:11:26
+Microbiology,Bacteria - Gram Negative,Haemophilus influenzae,0:10:40
+Microbiology,Bacteria - Gram Negative,Bordetella pertussis,0:08:24
+Microbiology,Bacteria - Gram Negative,Brucella,0:05:48
+Microbiology,Bacteria - Gram Negative,Legionella pneumophila,0:12:54
+Microbiology,Bacteria - Gram Negative,Pseudomonas aeruginosa: Overview,0:07:57
+Microbiology,Bacteria - Gram Negative,Pseudomonas aeruginosa: Disease,0:11:22
+Microbiology,Bacteria - Gram Negative,Salmonella Overview,0:08:34
+Microbiology,Bacteria - Gram Negative,Salmonella typhi,0:08:20
+Microbiology,Bacteria - Gram Negative,Salmonella enteritidis,0:04:16
+Microbiology,Bacteria - Gram Negative,Shigella,0:09:43
+Microbiology,Bacteria - Gram Negative,Yersinia enterocolitica,0:10:37
+Microbiology,Bacteria - Gram Negative,Escherichia coli: Overview,0:11:11
+Microbiology,Bacteria - Gram Negative,Enterohemorrhagic E. Coli (EHEC),0:06:55
+Microbiology,Bacteria - Gram Negative,Enterotoxigenic E. Coli (ETEC),0:06:07
+Microbiology,Bacteria - Gram Negative,Klebsiella pneumoniae,0:08:41
+Microbiology,Bacteria - Gram Negative,Campylobacter jejuni,0:09:20
+Microbiology,Bacteria - Gram Negative,Vibrio spp.,0:10:58
+Microbiology,Bacteria - Gram Negative,Helicobacter pylori,0:12:41
+Microbiology,Bacteria - Gram Negative,Borrelia burgdorferi (Lyme Disease),0:10:35
+Microbiology,Bacteria - Gram Negative,Leptospira interrogans,0:06:55
+Microbiology,Bacteria - Gram Negative,Treponema pallidum: Overview,0:16:35
+Microbiology,Bacteria - Gram Negative,Treponema pallidum: Diagnosis,0:07:48
+Microbiology,Bacteria - Gram Negative,Congenital syphilis,0:05:29
+Microbiology,Bacteria - Gram Negative,Chlamydia: Overview,0:08:15
+Microbiology,Bacteria - Gram Negative,Chlamydia trachomatis,0:09:54
+Microbiology,Bacteria - Gram Negative,Chlamydia pneumoniae vs. psittaci,0:03:59
+Microbiology,Bacteria - Gram Negative,Rickettsia rickettsii,0:06:00
+Microbiology,Bacteria - Gram Negative,Rickettsia typhi vs. prowazekii,0:07:03
+Microbiology,Bacteria - Gram Negative,Anaplasma vs. Ehrlichia,0:07:16
+Microbiology,Bacteria - Gram Negative,Coxiella burnetii (Q fever),0:07:36
+Microbiology,Bacteria - Gram Indeterminate,Mycobacterium tuberculosis: Overview,0:11:54
+Microbiology,Bacteria - Gram Indeterminate,Mycobacterium tuberculosis: Disease (TB),0:20:18
+Microbiology,Bacteria - Gram Indeterminate,Mycobacterium avium,0:05:00
+Microbiology,Bacteria - Gram Indeterminate,Mycobacterium scrofulaceum,0:04:31
+Microbiology,Bacteria - Gram Indeterminate,Mycobacterium leprae,0:09:03
+Microbiology,Bacteria - Gram Indeterminate,Gardnerella vaginalis (Bacterial Vaginosis),0:07:08
+Microbiology,Bacteria - Gram Indeterminate,Mycoplasma pneumoniae,0:12:28
+Microbiology,Viruses - DNA Viruses,Herpesvirus Overview,0:04:16
+Microbiology,Viruses - DNA Viruses,Herpes Simplex Virus 1 (HSV1),0:12:40
+Microbiology,Viruses - DNA Viruses,Herpes Simplex Virus 2 (HSV2),0:08:20
+Microbiology,Viruses - DNA Viruses,Varicella-Zoster Virus (HHV3),0:13:13
+Microbiology,Viruses - DNA Viruses,Epstein-Barr Virus (HHV4),0:10:28
+Microbiology,Viruses - DNA Viruses,Cytomegalovirus (HHV5),0:10:36
+Microbiology,Viruses - DNA Viruses,Human Herpesviruses 6 and 7 (HHV6 and HHV7),0:04:16
+Microbiology,Viruses - DNA Viruses,Human Herpesviruses 8 (HHV8),0:05:58
+Microbiology,Viruses - DNA Viruses,Poxvirus,0:11:13
+Microbiology,Viruses - DNA Viruses,Hepadnavirus (No Video),0:00:00
+Microbiology,Viruses - DNA Viruses,Adenovirus,0:10:31
+Microbiology,Viruses - DNA Viruses,Papillomavirus (HPV),0:07:21
+Microbiology,Viruses - DNA Viruses,Polyomavirus,0:06:37
+Microbiology,Viruses - DNA Viruses,Parvovirus,0:13:14
+Microbiology,Viruses - RNA Viruses,HIV: Microbiology and Characteristics,0:21:33
+Microbiology,Viruses - RNA Viruses,HIV: Clinical Course,0:18:52
+Microbiology,Viruses - RNA Viruses,Reovirus,0:07:02
+Microbiology,Viruses - RNA Viruses,Picornavirus Overview,0:05:10
+Microbiology,Viruses - RNA Viruses,Poliovirus,0:09:49
+Microbiology,Viruses - RNA Viruses,Echovirus,0:03:59
+Microbiology,Viruses - RNA Viruses,Rhinovirus,0:05:07
+Microbiology,Viruses - RNA Viruses,Coxsackievirus,0:06:06
+Microbiology,Viruses - RNA Viruses,Hepatitis A Virus (HAV),0:09:18
+Microbiology,Viruses - RNA Viruses,Hepevirus (Hepatitis E Virus),0:07:30
+Microbiology,Viruses - RNA Viruses,Calicivirus,0:06:37
+Microbiology,Viruses - RNA Viruses,Flavivirus,0:05:37
+Microbiology,Viruses - RNA Viruses,Hepatitis C Virus (HCV),0:11:43
+Microbiology,Viruses - RNA Viruses,Yellow Fever Virus,0:06:47
+Microbiology,Viruses - RNA Viruses,Dengue Virus,0:09:39
+Microbiology,Viruses - RNA Viruses,St. Louis Encephalitis and West Nile Virus,0:04:36
+Microbiology,Viruses - RNA Viruses,Zika Virus,0:04:39
+Microbiology,Viruses - RNA Viruses,Togavirus,0:07:10
+Microbiology,Viruses - RNA Viruses,Rubella,0:11:52
+Microbiology,Viruses - RNA Viruses,Retrovirus,0:08:52
+Microbiology,Viruses - RNA Viruses,Coronavirus,0:11:42
+Microbiology,Viruses - RNA Viruses,Orthomyxovirus,0:17:18
+Microbiology,Viruses - RNA Viruses,Paramyxovirus,0:09:28
+Microbiology,Viruses - RNA Viruses,Respiratory Syncytial Virus (RSV),0:05:46
+Microbiology,Viruses - RNA Viruses,Parainfluenza Virus (Croup),0:04:32
+Microbiology,Viruses - RNA Viruses,Measles,0:08:35
+Microbiology,Viruses - RNA Viruses,Mumps,0:07:58
+Microbiology,Viruses - RNA Viruses,Rhabdovirus,0:12:33
+Microbiology,Viruses - RNA Viruses,Filovirus,0:07:52
+Microbiology,Viruses - RNA Viruses,Arenavirus,0:10:36
+Microbiology,Viruses - RNA Viruses,Bunyavirus,0:08:30
+Microbiology,Viruses - RNA Viruses,Deltavirus,0:09:03
+Microbiology,Fungi,Histoplasma,0:07:50
+Microbiology,Fungi,Blastomyces,0:07:53
+Microbiology,Fungi,Coccidioides,0:11:37
+Microbiology,Fungi,Paracoccidioides,0:13:35
+Microbiology,Fungi,Tinea (Dermatophytes) (No Video),0:00:00
+Microbiology,Fungi,Malassezia,0:07:52
+Microbiology,Fungi,Candida albicans,0:14:14
+Microbiology,Fungi,Aspergillus fumigatus,0:16:26
+Microbiology,Fungi,Cryptococcus neoformans,0:12:15
+Microbiology,Fungi,Mucor and Rhizopus,0:09:45
+Microbiology,Fungi,Pneumocystis jirovecii,0:09:36
+Microbiology,Fungi,Sporothrix schenckii,0:09:04
+Microbiology,Parasites,Giardia lamblia,0:09:10
+Microbiology,Parasites,Toxoplasma gondii,0:14:20
+Microbiology,Parasites,Entamoeba histolytica,0:08:18
+Microbiology,Parasites,Cryptosporidium,0:05:11
+Microbiology,Parasites,Naegleria fowleri,0:07:34
+Microbiology,Parasites,Trypanosoma brucei,0:08:20
+Microbiology,Parasites,Plasmodium Overview,0:15:19
+Microbiology,Parasites,Plasmodium Disease (Malaria),0:14:03
+Microbiology,Parasites,Babesia,0:12:28
+Microbiology,Parasites,Trypanosoma cruzi,0:08:58
+Microbiology,Parasites,Leishmania,0:12:01
+Microbiology,Parasites,Trichomonas vaginalis,0:05:53
+Microbiology,Parasites,Enterobius vermicularis (pinworm),0:08:13
+Microbiology,Parasites,Ascaris lumbricoides (giant roundworm),0:09:08
+Microbiology,Parasites,Strongyloides stercoralis (threadworm),0:10:42
+Microbiology,Parasites,Ancylostoma and Necator,0:09:40
+Microbiology,Parasites,Trichinella spiralis,0:07:05
+Microbiology,Parasites,Trichuris trichiura (whipworm),0:07:18
+Microbiology,Parasites,Toxocara canis,0:07:04
+Microbiology,Parasites,Onchocerca volvulus,0:05:22
+Microbiology,Parasites,Loa loa,0:05:35
+Microbiology,Parasites,Wuchereria bancrofti,0:05:03
+Microbiology,Parasites,Taenia solium,0:08:11
+Microbiology,Parasites,Diphyllobothrium latum,0:05:52
+Microbiology,Parasites,Echinococcus granulosus,0:07:03
+Microbiology,Parasites,Schistosoma,0:12:53
+Microbiology,Parasites,Clonorchis sinensis,0:03:47
+Microbiology,Parasites,Sarcoptes scabiei (Scabies),0:05:30
+Microbiology,Parasites,Pediculus humanis and Phthirus pubis (Lice),0:05:42
+Neuroanatomy,Cranial Nerves,Olfactory Nerve (CN I),0:05:48
+Neuroanatomy,Cranial Nerves,Optic Nerve (CN II),0:07:04
+Neuroanatomy,Cranial Nerves,Oculomotor Nerve (CN III),0:12:00
+Neuroanatomy,Cranial Nerves,Trochlear Nerve (CN IV),0:07:00
+Neuroanatomy,Cranial Nerves,Trigeminal Nerve (CN V),0:17:48
+Neuroanatomy,Cranial Nerves,Abducens Nerve (CN VI),0:07:21
+Neuroanatomy,Cranial Nerves,Facial Nerve (CN VII),0:15:53
+Neuroanatomy,Cranial Nerves,Vestibulocochlear Nerve (CN VIII),0:10:09
+Neuroanatomy,Cranial Nerves,Glossopharyngeal Nerve (CN IX),0:11:46
+Neuroanatomy,Cranial Nerves,Vagus Nerve (CN X),0:12:20
+Neuroanatomy,Cranial Nerves,Accessory Nerve (CN XI),0:05:48
+Neuroanatomy,Cranial Nerves,Hypoglossal Nerve (CN XII),0:04:58
+Neuroanatomy,Spinal Tracts,Dorsal Column (Medial Lemniscus),0:16:18
+Neuroanatomy,Spinal Tracts,Spinothalamic Tract,0:15:21
+Neuroanatomy,Spinal Tracts,Corticospinal Tract,0:10:43
+Neuroanatomy,Spinal Tracts,Brachial Plexus,0:12:46
+Neuroanatomy,Thalamic Nuclei,Ventral Posterolateral (VPL) Nucleus,0:05:38
+Neuroanatomy,Thalamic Nuclei,Ventral Posteromedial (VPM) Nucleus,0:05:17
+Neuroanatomy,Thalamic Nuclei,Lateral Geniculate Nucleus (LGN),0:04:39
+Neuroanatomy,Thalamic Nuclei,Medial Geniculate Nucleus (MGN),0:05:17
+Neuroanatomy,Thalamic Nuclei,Ventral Lateral (VL) Nucleus,0:04:50
+Neuroanatomy,Hypothalamic Nuclei,Suprachiasmatic Nucleus,0:02:53
+Neuroanatomy,Hypothalamic Nuclei,Paraventricular and Supraoptic Nuclei,0:05:21
+Neuroanatomy,Hypothalamic Nuclei,Lateral Nucleus,0:03:57
+Neuroanatomy,Hypothalamic Nuclei,Ventromedial Nucleus,0:04:37
+Neuroanatomy,Hypothalamic Nuclei,Anterior Nucleus,0:03:13
+Neuroanatomy,Hypothalamic Nuclei,Posterior Nucleus,0:03:32
+Neuroanatomy,Hypothalamic Nuclei,Preoptic Nuclei,0:04:25
+Neuroanatomy,Vagal Nuclei,Nucleus Ambiguus,0:03:30
+Neuroanatomy,Vagal Nuclei,Nucleus Tractus Solitarius,0:05:26
+Neuroanatomy,Vagal Nuclei,Dorsal Motor Nucleus,0:02:46
+Neuroanatomy,Mechanoreceptors,Pacinian Corpuscle (Lamellar Corpuscle),0:05:13
+Neuroanatomy,Mechanoreceptors,Meissner Corpuscle (Tactile Corpuscle),0:04:50
+Neuroanatomy,Mechanoreceptors,Merkel Disk,0:05:26
+Neuroanatomy,Mechanoreceptors,Ruffini Endings (Ruffini Corpuscle),0:03:07
+Neuroanatomy,Headaches,Tension Headache,0:06:30
+Neuroanatomy,Headaches,Trigeminal Neuralgia,0:04:58
+Neuroanatomy,Headaches,Migraine Headaches,0:11:45
+Neuroanatomy,Headaches,Cluster Headache,0:06:37
+Neuroanatomy,Brain Tumors,Craniopharyngioma,0:08:09
+Neuroanatomy,Brain Tumors,Oligodendroglioma,0:05:48
+Neuroanatomy,Brain Tumors,Schwannoma,0:09:08
+Neuroanatomy,Brain Tumors,Glioblastoma Multiforme (Grade IV Astrocytoma),0:07:07
+Neuroanatomy,Brain Tumors,Meningioma,0:07:53
+Neuroanatomy,Brain Tumors,Ependymoma,0:07:03
+Neuroanatomy,Brain Tumors,Pinealoma,0:04:39
+Neuroanatomy,Brain Tumors,Pilocytic Astrocytoma,0:08:11
+Neuroanatomy,Brain Tumors,Medulloblastoma,0:11:05
+Neuroanatomy,Brain Tumors,Pituitary Adenoma,0:11:03
+Neuroanatomy,Brain Tumors,Hemangioblastoma,0:06:19
+Neuroanatomy,Dopaminergic Pathways,Mesocortical Pathway,0:05:17
+Neuroanatomy,Dopaminergic Pathways,Mesolimbic Pathway,0:04:30
+Neuroanatomy,Dopaminergic Pathways,Nigrostriatal Pathway,0:04:51
+Neuroanatomy,Dopaminergic Pathways,Tuberoinfundibular Pathway,0:03:39
+Neuroanatomy,Strokes,Anterior Cerebral Artery (ACA),0:04:50
+Neuroanatomy,Strokes,Middle Cerebral Artery (MCA),0:09:20
+Neuroanatomy,Strokes,Posterior Cerebral Artery (PCA),0:05:47
+Neuroanatomy,Strokes,Lenticulostriate Artery,0:05:52
+Neuroanatomy,Strokes,Anterior Inferior Cerebellar Artery (AICA),0:09:10
+Neuroanatomy,Strokes,Posterior Inferior Cerebellar Artery (PICA),0:08:37
+Neuroanatomy,Strokes,Anterior Spinal Artery (ASA),0:05:28
+Neuroanatomy,Strokes,Basilar Artery,0:05:26
+Neuroanatomy,Hemorrhage,Epidural Hematoma,0:10:15
+Neuroanatomy,Hemorrhage,Subdural Hematoma,0:09:20
+Neuroanatomy,Hemorrhage,Subarachnoid Hemorrhage,0:09:15
+Neuroanatomy,Hemorrhage,Charcot-Bouchard Microaneurysms,0:05:03
+Neuroanatomy,Neurodegenerative Diseases,Alzheimer Dementia,0:13:18
+Neuroanatomy,Neurodegenerative Diseases,Vascular Dementia,0:03:37
+Neuroanatomy,Neurodegenerative Diseases,Lewy Body Dementia,0:05:53
+Neuroanatomy,Neurodegenerative Diseases,Frontotemporal Dementia,0:05:41
+Neuroanatomy,Neurodegenerative Diseases,Parkinson Disease,0:10:15
+Neuroanatomy,Neurodegenerative Diseases,Multiple System Atrophy,0:04:50
+Neuroanatomy,Neurodegenerative Diseases,Progressive Supranuclear Palsy,0:04:51
+Neuroanatomy,Neurodegenerative Diseases,Creutzfeldt-Jakob Disease,0:06:59
+Neuroanatomy,Posterior Fossa Malformations,Chiari I Malformation,0:05:44
+Neuroanatomy,Posterior Fossa Malformations,Chiari II Malformation,0:07:26
+Neuroanatomy,Posterior Fossa Malformations,Dandy-Walker Malformation,0:06:04
+Neuroanatomy,Neurological Disorders,Tuberous Sclerosis,0:09:52
+Neuroanatomy,Neurological Disorders,Charcot-Marie-Tooth Disease,0:07:34
+Neuroanatomy,Neurological Disorders,Huntington Disease,0:10:35
+Neuroanatomy,Neurological Disorders,Sturge-Weber Syndrome,0:07:25
+Neuroanatomy,Neurological Disorders,Friedreich Ataxia,0:12:40
+Neuroanatomy,Neurological Disorders,Multiple Sclerosis (MS),0:15:45
+Neuroanatomy,Neurological Disorders,Horner Syndrome,0:03:49
+Neuroanatomy,Spinal Lesions,UMN vs. LMN Lesions,0:09:45
+Neuroanatomy,Spinal Lesions,Werdnig-Hoffman Disease (SMA Type 1),0:07:53
+Neuroanatomy,Spinal Lesions,Amyotrophic Lateral Sclerosis (ALS),0:05:20
+Neuroanatomy,Spinal Lesions,Tabes Dorsalis,0:06:52
+Neuroanatomy,Spinal Lesions,Cauda Equina Syndrome,0:04:44
+Neuroanatomy,Spinal Lesions,Syringomyelia,0:05:35
+Neuroanatomy,Spinal Lesions,Brown-Sequard Syndrome,0:08:24

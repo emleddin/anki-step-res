@@ -6,14 +6,41 @@ This repository contains:
 
 - CSVs of timings and titles for external resource videos
     - [Boards and Beyond (BNB) Google Sheet](https://docs.google.com/spreadsheets/d/1Wm41IYA7ty8o-c8en73YcsnBitMoIJBqOoivP46xPag/edit?usp=sharing)
+        - TODO: Add Pathology
     - [Pathoma Google Sheet](https://docs.google.com/spreadsheets/d/1NAeezYHHN5qXgC7AmfHF6CiWdOFn3YAh7ixa56eD64c/edit?usp=sharing)
     - [Physeo Google Sheet](https://docs.google.com/spreadsheets/d/1L3SIvoQ6W02KJylnQfod6kAduBXP7W1em84sDAmyLMA/edit?usp=sharing)
     - [Pixorize Google Sheet](https://docs.google.com/spreadsheets/d/1v8s2e8QmMmoTEHZEQ_TXM_1lj2-glj6Po8s870OZbZw/edit?usp=sharing)
     - [Sketchy Google Sheet](https://docs.google.com/spreadsheets/d/1tPFMKQ6lCDuS8vgn8HTWKh3omDXrUHzCvmoFzogr2CQ/edit?usp=sharing)
+        - TODO: Add Biochem
     - [Folder with above Google Sheets](https://drive.google.com/drive/folders/1rLeHmQgOzyJmIGUuPnUD3wDfIynowgbF?usp=drive_link)
 - A list of tags for AnKing v11
     - TODO: FirstAid, Physeo, Pixorize, Step2
 - Coming Soon: Escaped list of tags for AnKing v11
+
+## Suggested Tag Use
+
+- Use a resource, then add the cards with a tag from that resources to a
+filtered deck
+    - `Tools → Create Filtered Deck`
+    - Enter your criteria under the `Filtered Search`.
+    Using a `*` at the end is advised. By default, searches use `OR` when
+    multiple criteria are entered, but other operators can be specified.
+    ```python
+    # Grabs all the cards for the Sketchy Micro
+    "tag:#AK_Step1_v11::#SketchyMicro*"
+
+    # Grabs all the Bacteria cards for Sketchy Micro
+    "tag:#AK_Step1_v11::#SketchyMicro::01_Bacteria*"
+
+    # Grabs all the Gram Positive Cocci cards for Sketchy Micro Bacteria
+    "tag:#AK_Step1_v11::#SketchyMicro::01_Bacteria::01_Gram_(+)_Cocci*"
+
+    # Grabs all the cards for the Sketchy Micro Staph Aureus video
+    "#AK_Step1_v11::#SketchyMicro::01_Bacteria::01_Gram_(+)_Cocci::01_Staph_aureus*"
+
+    # Grabs all the Bacteria and Fungi cards for Sketchy Micro
+    "tag:#AK_Step1_v11::#SketchyMicro::01_Bacteria*" OR "#AK_Step1_v11::#SketchyMicro::02_Fungi*"
+    ```
 
 ## Tips
 

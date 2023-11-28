@@ -6,16 +6,26 @@ This repository contains:
 
 - CSVs of timings and titles for external resource videos
     - [Boards and Beyond (BNB) Google Sheet](https://docs.google.com/spreadsheets/d/1Wm41IYA7ty8o-c8en73YcsnBitMoIJBqOoivP46xPag/edit?usp=sharing)
-        - TODO: Add Pathology
     - [Pathoma Google Sheet](https://docs.google.com/spreadsheets/d/1NAeezYHHN5qXgC7AmfHF6CiWdOFn3YAh7ixa56eD64c/edit?usp=sharing)
     - [Physeo Google Sheet](https://docs.google.com/spreadsheets/d/1L3SIvoQ6W02KJylnQfod6kAduBXP7W1em84sDAmyLMA/edit?usp=sharing)
     - [Pixorize Google Sheet](https://docs.google.com/spreadsheets/d/1v8s2e8QmMmoTEHZEQ_TXM_1lj2-glj6Po8s870OZbZw/edit?usp=sharing)
     - [Sketchy Google Sheet](https://docs.google.com/spreadsheets/d/1tPFMKQ6lCDuS8vgn8HTWKh3omDXrUHzCvmoFzogr2CQ/edit?usp=sharing)
-        - TODO: Add Biochem
+        - TODO: Add Biochem (if you know the full timestamps, please share!)
     - [Folder with above Google Sheets](https://drive.google.com/drive/folders/1rLeHmQgOzyJmIGUuPnUD3wDfIynowgbF?usp=drive_link)
-- A list of tags for AnKing v11
-    - TODO: FirstAid, Physeo, Pixorize, Step2
-- Coming Soon: Escaped list of tags for AnKing v11
+- CSV of tags for AnKing v11
+    - TODO: Combine tags with durations
+- Consider: Escaped list of tags for AnKing v11 (or explaining sequences)
+
+| Resource          | Total Runtime (h:mm:ss) |
+| :---------------- | :---------------------: |
+| Boards and Beyond | 120:31:46 |
+| Pathoma           | 34:32:01 |
+| Physeo            | 144:02:29 |
+| Pixorize          | 109:08:39 |
+| Sketchy Micro     | 13:39:45 |
+| Sketchy Path      | 47:40:33 |
+| Sketchy Pharm     | 27:09:37 |
+| **Total**         | 496:44:50 |
 
 ## Suggested Tag Use
 
@@ -47,10 +57,6 @@ filtered deck
 - Search `"-&gt;"` to find instances of `->` in cards
 - Symbols that may be of use: → α β
 
-## Additional Resource
-
-- [Using the 8BitDo Zero 2 Remote with ANKI](https://gist.github.com/emleddin/d25eb8493e16a7e262d156e7c8f53e77)
-
 ## Favorite Add-Ons
 
 - [AMBOSS Official (Requires AMBOSS subscription)](https://ankiweb.net/shared/info/1044112126), Code: 1044112126
@@ -64,3 +70,21 @@ filtered deck
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083), Code: 1771074083
 - [Special Fields](https://ankiweb.net/shared/info/1102281552), Code: 1102281552
 - [Tag Data to CSV](https://ankiweb.net/shared/info/1656094334), Code: 1656094334
+
+## Additional Resources
+
+- [Using the 8BitDo Zero 2 Remote with ANKI](https://gist.github.com/emleddin/d25eb8493e16a7e262d156e7c8f53e77)
+
+### Reddit Threads
+
+- [2023: I matched every B&B video with a string of UWorld Question ID numbers on the same subjects ](https://www.reddit.com/r/medicalschool/comments/16dpri3/i_matched_every_bb_video_with_a_string_of_uworld/)
+- [2023: Updated Sketchy Pharm/Micro Checklist](https://www.reddit.com/r/comlex/comments/14i1udg/updated_sketchy_pharmmicro_checklist/)
+- [2022: Complete Notion Checklist for Bnb, Pathoma, Sketchy Micro, Pharma with corresponding Anki cards based on Anking V11](https://www.reddit.com/r/medicalschoolanki/comments/vucu2q/complete_notion_checklist_for_bnb_pathoma_sketchy/)
+- [2022: UFAPS Checklist w/ Runtimes](https://www.reddit.com/r/step1/comments/u2e19p/ufaps_checklist_w_runtimes/)
+- [2021: Boards and Beyond 2020 Compressed Checklist (corrected)](https://www.reddit.com/r/step1/comments/ld84m3/boards_and_beyond_2020_compressed_checklist/)
+- [2021: Color-Coded STEP1 Excel Checklist](https://www.reddit.com/r/step1/comments/re7sly/finally_an_excel_checklist_with_all_of_the_usmle/)
+- [2020: STEP2 Checklist for Sketchy Videos (All subjects)](https://www.reddit.com/r/Step2/comments/kcs15j/made_a_checklist_for_sketchy_videos_all_subjects/)
+- [2020: Workflow spreadsheets for Boards & Beyond, Pathoma, and Sketchy Pharm/Micro](https://www.reddit.com/r/medicalschoolanki/comments/g4y58p/workflow_spreadsheet_with_boards_and_beyond/)
+- [2020: Step 1 Resource Checklist Spreadsheet](https://www.reddit.com/r/step1/comments/g99b0y/step_1_resource_checklist_spreadsheet_pixorize/)
+- [2019: Lists of all videos for Pathoma, Boards & Beyond, Sketchy Pharm, and Physeo](https://www.reddit.com/r/step1/comments/b48r6m/lists_of_all_videos_with_runtimes_in_pathoma/)
+- [2017: Printable Pathoma and Sketchy Pharm To Do lists](https://www.reddit.com/r/medicalschool/comments/76coin/pathoma_and_sketchy_pharm_to_do_lists_printables/)

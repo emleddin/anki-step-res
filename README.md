@@ -1,10 +1,15 @@
 # Anki and STEP Resources
 
+Tip: The `README.md` file
+[table of contents](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes#auto-generated-table-of-contents-for-readme-files)
+can be viewed by selecting the hamburger menu on the same line as the title in
+the viewer!
+
 ## About
 
 This repository contains:
 
-- CSVs of timings and titles for external resource videos
+- CSVs of timings and titles for STEP 1 external resource videos
     - [Boards and Beyond (BNB) Google Sheet](https://docs.google.com/spreadsheets/d/1Wm41IYA7ty8o-c8en73YcsnBitMoIJBqOoivP46xPag/edit?usp=sharing)
     - [Pathoma Google Sheet](https://docs.google.com/spreadsheets/d/1NAeezYHHN5qXgC7AmfHF6CiWdOFn3YAh7ixa56eD64c/edit?usp=sharing)
     - [Physeo Google Sheet](https://docs.google.com/spreadsheets/d/1L3SIvoQ6W02KJylnQfod6kAduBXP7W1em84sDAmyLMA/edit?usp=sharing)
@@ -13,8 +18,6 @@ This repository contains:
         - TODO: Add Biochem (if you know the full timestamps, please share!)
     - [Folder with above Google Sheets](https://drive.google.com/drive/folders/1rLeHmQgOzyJmIGUuPnUD3wDfIynowgbF?usp=drive_link)
 - CSV of tags for AnKing v11
-    - TODO: Combine tags with durations
-- Consider: Escaped list of tags for AnKing v11 (or explaining sequences)
 
 | Resource          | Total Runtime (h:mm:ss) |
 | :---------------- | :---------------------: |
@@ -25,7 +28,7 @@ This repository contains:
 | Sketchy Micro     | 13:39:45 |
 | Sketchy Path      | 47:40:33 |
 | Sketchy Pharm     | 27:09:37 |
-| **Total**         | 496:44:50 |
+| **Total**         | **496:44:50** |
 
 ## Suggested Tag Use
 

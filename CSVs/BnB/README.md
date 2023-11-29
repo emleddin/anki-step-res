@@ -1,4 +1,4 @@
-# Boards and Beyond
+# Boards and Beyond (STEP 1)
 
 - [Boards and Beyond Website](https://www.boardsbeyond.com/homepage)
 - [Boards and Beyond (BNB) Google Sheet](https://docs.google.com/spreadsheets/d/1Wm41IYA7ty8o-c8en73YcsnBitMoIJBqOoivP46xPag/edit?usp=sharing)

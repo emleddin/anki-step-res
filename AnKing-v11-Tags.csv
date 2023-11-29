@@ -6953,7 +6953,7 @@ Tags
 #AK_Step1_v11::#Physeo::09_Pharm::02_Antivirals::08_Integrase_Inhibitors
 #AK_Step1_v11::#Physeo::09_Pharm::02_Antivirals::09_Fusion_Inhibitors
 #AK_Step1_v11::#Physeo::09_Pharm::02_Antivirals::10_Hepatitis_C_Therapy
-"#AK_Step1_v11::#Physeo::09_Pharm::03_Antiparasitic_Drugs
+#AK_Step1_v11::#Physeo::09_Pharm::03_Antiparasitic_Drugs
 "#AK_Step1_v11::#Physeo::09_Pharm::03_Antiparasitic_Drugs::01_Malathion,_Permethrin,_&_Lindane"
 #AK_Step1_v11::#Physeo::09_Pharm::04_Antifungals
 "#AK_Step1_v11::#Physeo::09_Pharm::04_Antifungals::01_Amphotericin_B,_Nystatin,_&_Flucytosine"
@@ -7941,6 +7941,7 @@ AK_Step1_v11::#Physeo::09_Pharm::07_Endocrine
 #AK_Step1_v11::#Pixorize::04_Micro::03_Antivirals::NNRTIs
 #AK_Step1_v11::#Pixorize::04_Micro::03_Antivirals::NRTIs
 #AK_Step1_v11::#Pixorize::04_Micro::03_Antivirals::Oseltamivir_Zanamivir
+#AK_Step1_v11::#Pixorize::05_Neuro
 #AK_Step1_v11::#Pixorize::05_Neuro::02_Spinal_Tracts
 #AK_Step1_v11::#Pixorize::05_Neuro::02_Spinal_Tracts::01_Spinothalamic_Tract
 #AK_Step1_v11::#Pixorize::05_Neuro::02_Spinal_Tracts::02_Corticospinal_Tract

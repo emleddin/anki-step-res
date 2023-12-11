@@ -66,6 +66,7 @@ filtered deck
 - [Basic Printing Support](https://ankiweb.net/shared/info/1025789669), Code: 1025789669
 - [BetterSearch](https://ankiweb.net/shared/info/1052724801), Code: 1052724801
 - [Colorful Tags (+ Hierarchical Tags)](https://ankiweb.net/shared/info/594329229), Code: 594329229
+- [Custom Background Image and Gear Icon](https://ankiweb.net/shared/info/1210908941), Code: 1210908941
 - [Image Occlusion Enhanced](https://ankiweb.net/shared/info/1374772155), Code: 1374772155
 - [More Decks Stats and Time Left](https://ankiweb.net/shared/info/1556734708), Code: 1556734708
 - [Progress Graphs and Stats for Learned and Matured Cards](https://ankiweb.net/shared/info/266436365), Code: 266436365
@@ -75,6 +76,7 @@ filtered deck
 - [Tag Data to CSV](https://ankiweb.net/shared/info/1656094334), Code: 1656094334
 
 ### Other Useful Add-Ons
+- [Button Colours (Good, Again)](https://ankiweb.net/shared/info/2494384865), Code: 2494384865
 - [Mini Format Pack](https://ankiweb.net/shared/info/295889520), Code: 295889520
 - [Picmonic (no subscription required)](https://ankiweb.net/shared/info/40737180), Code: 40737180
 - [UpToDate (Requires subscription; direct download)](https://www.wolterskluwer.com/en/solutions/uptodate/uptodate/anki-add-on#how-to)

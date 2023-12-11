@@ -74,9 +74,15 @@ filtered deck
 - [Special Fields](https://ankiweb.net/shared/info/1102281552), Code: 1102281552
 - [Tag Data to CSV](https://ankiweb.net/shared/info/1656094334), Code: 1656094334
 
+### Other Useful Add-Ons
+- [Mini Format Pack](https://ankiweb.net/shared/info/295889520), Code: 295889520
+- [Picmonic (no subscription required)](https://ankiweb.net/shared/info/40737180), Code: 40737180
+- [UpToDate (Requires subscription; direct download)](https://www.wolterskluwer.com/en/solutions/uptodate/uptodate/anki-add-on#how-to)
+
 ## Additional Resources
 
 - [Using the 8BitDo Zero 2 Remote with ANKI](https://gist.github.com/emleddin/d25eb8493e16a7e262d156e7c8f53e77)
+- [UWorldToAnki Chrome Extension](https://chrome.google.com/webstore/detail/uworld2anki/phmlchhmidolklmhbieicjmeamkjfdif)
 
 ### Reddit Threads
 

@@ -59,6 +59,23 @@ filtered deck
 
 - Search `"-&gt;"` to find instances of `->` in cards
 - Symbols that may be of use: → α β
+- Turn off the exclamation mark timer in the AnKing deck
+    - `Browse` → select any card → `Cards` (should open a new window) → `Styling`
+    - Modify this code:
+    ```css
+    /* TIMER ON/OFF */
+    .timer {
+      display: block; /* ‘none’ or ‘block’ */
+    }
+    ```
+    to this
+    ```css
+    /* TIMER ON/OFF */
+    .timer {
+      display: none; /* ‘none’ or ‘block’ */
+    }
+    ```
+    and `Save`!
 
 ## Favorite Add-Ons
 

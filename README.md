@@ -102,6 +102,7 @@ filtered deck
 
 - [Using the 8BitDo SN30 Pro Remote with ANKI](https://gist.github.com/emleddin/2854b6f33417d2823738caef0ef6c129)
 - [Using the 8BitDo Zero 2 Remote with ANKI](https://gist.github.com/emleddin/d25eb8493e16a7e262d156e7c8f53e77)
+- [Using the 8BitDo Micro Remote with ANKI](https://gist.github.com/emleddin/fa059bd25445f9bb30150857640c0bc9)
 - [UWorldToAnki Chrome Extension](https://chrome.google.com/webstore/detail/uworld2anki/phmlchhmidolklmhbieicjmeamkjfdif)
 
 ### Reddit Threads

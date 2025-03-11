@@ -137,8 +137,13 @@ filtered deck
 - [2021: NBME high yield images](https://www.reddit.com/r/step1/comments/nx9ur0/nbme_high_yield_images/)
 - [2021: Boards and Beyond 2020 Compressed Checklist (corrected)](https://www.reddit.com/r/step1/comments/ld84m3/boards_and_beyond_2020_compressed_checklist/)
 - [2021: Color-Coded STEP1 Excel Checklist](https://www.reddit.com/r/step1/comments/re7sly/finally_an_excel_checklist_with_all_of_the_usmle/)
+- [2020: Anki deck for USMLE Step 1 High Yield Images](https://www.reddit.com/r/medicalschoolanki/comments/htwn92/anki_deck_for_usmle_step_1_high_yield_images_link/)
 - [2020: STEP2 Checklist for Sketchy Videos (All subjects)](https://www.reddit.com/r/Step2/comments/kcs15j/made_a_checklist_for_sketchy_videos_all_subjects/)
 - [2020: Workflow spreadsheets for Boards & Beyond, Pathoma, and Sketchy Pharm/Micro](https://www.reddit.com/r/medicalschoolanki/comments/g4y58p/workflow_spreadsheet_with_boards_and_beyond/)
 - [2020: Step 1 Resource Checklist Spreadsheet](https://www.reddit.com/r/step1/comments/g99b0y/step_1_resource_checklist_spreadsheet_pixorize/)
 - [2019: Lists of all videos for Pathoma, Boards & Beyond, Sketchy Pharm, and Physeo](https://www.reddit.com/r/step1/comments/b48r6m/lists_of_all_videos_with_runtimes_in_pathoma/)
 - [2017: Printable Pathoma and Sketchy Pharm To Do lists](https://www.reddit.com/r/medicalschool/comments/76coin/pathoma_and_sketchy_pharm_to_do_lists_printables/)
+
+### STEP 2 and Beyond
+
+- [Quail: browser for question banks](https://thedabblingduck.github.io/quail/)
